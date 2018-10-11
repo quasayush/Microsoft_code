@@ -1,2 +1,10 @@
-# Microsoft_code
+# Microsoft Codefundo++
 Project on Disaster Management
+Overview
+The idea is to make a mobile application with basic and simple graphic user interface. This application will help from evacuation to reinstatement afterwards. The basic idea is to include this application as a necessary update in next android and ios update so that at least it can be there on each smart phone. It will take login by registering the current sim so that mobile number could be updated in the database. The application will also have a feature for registering other users in the database (for those who don’t have smart phones). The application we will develop will basically have two parts:- one for warning and evacuation and other for restoration.
+Features
+Since an advance warning could be given for typhoons, the idea is that warning could be flashed by the app well in advance by meteorological department of the respective countries. Near evacuation centre could be notified by his/her GPS location. Since there might an internet connection problem, message with warning and follow through instructions would be sent. If someone gets stuck, he may press SOS button.
+As for the NDRF team, they would be able to see the density chart of people stuck in the dreadful mayhem and thus could start the airlift from the higher density place and from the exact location as mentioned by the GPS, contrary to roaming around which happens now.
+As for the reestablishment part, rather than donating for this cause to the third party, people can directly donate through the app. The app will be constantly updated with steps taken forward by the government and the NDRF team for reestablishment which will let the people see their preparedness. If in the premises we take the honesty of people working in restoration to be true then the results will surely be rewarding.
+Technologies used
+The application will be developed in android studio for android based system probably in JAVA in which Google maps will be used as an activity. Backend data storage will be done in My SQL.
